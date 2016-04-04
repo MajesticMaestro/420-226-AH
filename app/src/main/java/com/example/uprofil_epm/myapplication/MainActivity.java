@@ -7,6 +7,7 @@ import android.view.MenuItem;
 
 
 public class MainActivity extends ActionBarActivity {
+    int delete;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
